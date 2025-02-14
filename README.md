@@ -1,5 +1,6 @@
 # state-space-model-for-GPR-detection
 project for A State-Space-Model-Based Hyperbola Detection Method for Arbitrarily Long GPR B-scan
+Tian Lan, Yi Zhao, Conglong Guo, Junbo Gong, and Xiaopeng Yang,"A State-Space-Model-Based Hyperbola Detection Method for Arbitrarily Long GPR B-scan," IEEE Geoscience and Remote Sensing Letters
 
 
 # dataset
